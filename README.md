@@ -4,7 +4,21 @@
 
 Author: **Roy Osherove** - **TDD Kata 1 - String Calculator**
 
-Source: [Go to original source](http://osherove.com/kata)
+Source: [Go to original source](https://osherove.com/tdd-kata-1)
+
+---
+
+## Clarification
+
+The japanese pronunciation is "katà", not "kata"!
+"kata" means "shoulder".
+
+Ref: [Judo Kata - Pedagogy](https://en.wikipedia.org/wiki/Judo#Pedagogy)
+
+- **Randori** (Free practice)
+- **Katà** (Forms)
+
+---
 
 ## Before you start:
 
@@ -12,7 +26,7 @@ Source: [Go to original source](http://osherove.com/kata)
 - Do one task at a time. The trick is to learn to work incrementally.
 - Make sure you only test for correct inputs. there is no need to test for invalid inputs for this kata
 
-## String Calculator
+## String Calculator Katà
 
 ### 1. Create a simple String calculator with a method signature:
 
